@@ -32,7 +32,7 @@
     "*.json": ["prettier --write", "git add"]
   },
   "peerDependencies": {
-    "date-fns": ">=1.29.0",
+    "date-fns": "^2.0.0-alpha.25",
     "vue": ">=2.5.3",
     "vuetify": ">=1.0.4"
   },
@@ -53,7 +53,7 @@
     "vue-template-compiler": "^2.5.13"
   },
   "dependencies": {
-    "date-fns": "^1.29.0",
+    "date-fns": "^2.0.0-alpha.25",
     "vuetify": "^1.0.4"
   }
 }
